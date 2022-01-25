@@ -1,6 +1,6 @@
 # Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello, my name is FERHATI Amina 😃, I am 5 th year computer science student at Higher school of computer science (ESI), Algeria.
+Hello, my name is FERHATI Amina 😃, I am a computer science engineer, I graduated from  Higher school of computer science (ESI), Algeria.
 My speciality is Information systems and thechnologies.
 
 ## Tools and technologies 
